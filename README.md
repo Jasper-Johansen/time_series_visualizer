@@ -38,3 +38,31 @@ pip install pandas matplotlib seaborn
 - **bar_plot.png**: A bar plot showing monthly average page views.
 - **box_plot.png**: A box plot showing year-wise and month-wise distributions.
 
+## Observations & Inferences
+### 1. 📉 Line Plot Analysis
+
+![Line Plot](line_plot.png)
+
+- There is a **clear upward trend**, with notable increases during certain months each year.
+- Peaks and dips occur seasonally, but the **overall trajectory is rising**.
+
+### 2. 📊 Bar Plot Analysis
+
+![Bar Plot](bar_plot.png)
+
+- The **bar plot** compares monthly views across different years.
+- This visualization highlights a **stark contrast** when comparing identical months across different years.
+ 
+
+## 3. 📦 Box Plot Analysis
+
+![Box Plot](box_plot.png)
+
+- The **box plots** summarizes viewership by year and by months.
+- The **median** and **interquartile range (IQR)** shift **upwards** year over year.
+- The data becomes more **concentrated around higher values**, indicating both growth and stability.
+
+
+📈 **freeCodeCamp is steadily gaining viewership over time.**
+
+
